@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Click Here</name>
+   <tag></tag>
+   <elementGuidId>6370d7c8-55d6-4221-9299-47be4622ecfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/p[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.link.pts-b-db-14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>826cc9fe-022f-4e12-ba44-aa43f1f81958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link pts-b-db-14</value>
+      <webElementGuid>cba3b51c-9c8c-4ce3-8617-e21a0070bd23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click Here</value>
+      <webElementGuid>5b6bb91c-c7e4-4b28-835a-b1017af93a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;yes-card&quot;]/div[@class=&quot;yes-card__body&quot;]/p[@class=&quot;pts-n-db-14 text-center mt-3&quot;]/span[@class=&quot;link pts-b-db-14&quot;]</value>
+      <webElementGuid>d2756a2d-1875-49c6-b9ab-669d19c432d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/p[2]/span</value>
+      <webElementGuid>26a8d5f0-8fa7-46c9-a8ad-a8c7c7c17db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select your Television Service Provider'])[1]/following::span[1]</value>
+      <webElementGuid>9a4c5319-b718-4719-8d3e-d339817ca666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TV'])[1]/following::span[1]</value>
+      <webElementGuid>d384e258-8628-42d2-ac7e-f5216b556cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click Here']/parent::*</value>
+      <webElementGuid>5575fcfa-8d3b-4fe9-81ec-43d3434549c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/span</value>
+      <webElementGuid>79730c22-2be2-4634-bb99-3af0c01b510c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Click Here' or . = 'Click Here')]</value>
+      <webElementGuid>558d40bd-34cb-48da-8483-f36f3bf85ec2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
